@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+}
+.products {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 25px 500px;
+}
+.hamburger {
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.09);
+}
