@@ -1,0 +1,16 @@
+header {
+    padding: 15px 27px;
+}
+.products {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.products img {
+    width: 250px;
+}
+.product-item {
+    padding: 25px;
+    border: 1px solid rgba(89, 120, 150, 0.09);
+}
